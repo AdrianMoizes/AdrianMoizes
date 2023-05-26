@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adrian+Moizes;I'm+22+years+old;I'm+from+Brazil;I'm+In+Software+Engineering+College;Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AdrianMoizes&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianMoizes&bg_color=1b1a23&color=ebebeb&line=0a87bd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <img align="right" alt="Rafa-pic" height="100" style="border-radius:25px;" src="https://media.tenor.com/Ps6hIGTY_84AAAAj/ok.gif">
 
