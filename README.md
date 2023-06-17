@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <div align="center">  
-  <img width="300px" height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoizes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="300px" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoizes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   </div>
 </div>
 
