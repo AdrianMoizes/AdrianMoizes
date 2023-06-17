@@ -6,7 +6,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianMoizes&bg_color=1b1a23&color=ebebeb&line=0a87bd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:25px;" src="https://media.tenor.com/Ps6hIGTY_84AAAAj/ok.gif">
+ <img align="right" alt="Rafa-pic" height="100" style="border-radius:25px;" src="https://media.tenor.com/Ps6hIGTY_84AAAAj/ok.gif">
 
   
 
