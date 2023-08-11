@@ -16,7 +16,8 @@
 </div>
 <br>
 <div align="center">  
-  <img width="300px" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoizes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoizes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </div>
 <div align="center"> 
   <a href="https://www.instagram.com/adrian_nct/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
