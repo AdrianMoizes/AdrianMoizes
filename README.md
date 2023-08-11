@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adrian+Moizes;I'm+22+years+old;I'm+from+Brazil;I'm+In+Software+Engineering+College;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
-  <img align="left" alt="adrian-pic" height="auto" whidth="80px"; src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> 
+  <img align="left" alt="adrian-pic" height="auto" whidth="100%"; src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> 
 <div/>
 <div align="center" style="display: inline_block"><br>
  <p align="center">Hard Skills:</p>
