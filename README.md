@@ -6,13 +6,17 @@
 <div>
   <img align="left" alt="adrian-pic" height="auto" whidth="100%"; src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> 
 <div/>
-<div align="center" style="display: inline_block"><br>
- <p align="center">Hard Skills:</p>
-  <img align="center" alt="adrian-HTML" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="adrian-CSS" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="adrian-CSS" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="adrian-CSS" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
- <img align="center" alt="adrian-CSS" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />              
+Hard Skills:
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" alt="Jorge-C"
+ height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+
 </div>
 <br>
 <div align="center">  
