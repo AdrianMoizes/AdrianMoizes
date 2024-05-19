@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adrian+Moizes;I'm+22+years+old;I'm+from+Brazil;I'm+In+Software+Engineering+College;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=40&center=true&vCenter=true&width=1000&lines=Bem-Vindos,+Eu+Sou+Adrian+Moizes;Tenho+23+anos+de+Idade;Sou+Brasileiro;Estudante+de+Engenharia+de+Software;Sinta-se+Avontade!+:%29)](https://git.io/typing-svg)
 
 
-<h3 align="center" width="1000">A Frontend end Web developer!</h3>
+<h3 align="center" width="1000">Um Desenvolvedor Frontend e Web!</h3>
 <p align="center">
 <img  alt="codando" width="100%" 
 height="100%" src="https://64.media.tumblr.com/85e28b2c1364a2084bd7a6727add810a/bf7dea713bb52297-ac/s540x810/87ddd4497274541d0658eb925c82c369e446499b.gifv"/>
